@@ -1,0 +1,2043 @@
+Virtua Doc CSS Code:
+
+/* image 1 */
+
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 58px;
+top: 22px;
+
+background: url(image.png);
+
+/* VirtuaDoc */
+
+
+position: absolute;
+width: 161px;
+height: 29px;
+left: 58px;
+top: 122px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 535px;
+height: 275px;
+left: 290px;
+top: 22px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* The world’s leading virtual doctor and medical database, VirtuDoc helps patients and their familes find the right physicians for the job. Our robust, easy-to-use interface connects you with the perfect physician to solve what ever medical issue you or your loved ones may be experiencing. */
+
+
+position: absolute;
+width: 450px;
+height: 232px;
+left: 340px;
+top: 41px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Ellipse 2 */
+
+
+position: absolute;
+width: 190px;
+height: 168px;
+left: 13px;
+top: 391px;
+
+background: #E5E5E5;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Profile/Medical Questionare */
+
+
+position: absolute;
+width: 227px;
+height: 44px;
+left: 42px;
+top: 449px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+/* Ellipse 3 */
+
+
+position: absolute;
+width: 190px;
+height: 168px;
+left: 248px;
+top: 391px;
+
+background: #E5E5E5;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Doctor Database */
+
+
+position: absolute;
+width: 227px;
+height: 22px;
+left: 270px;
+top: 449px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+/* Ellipse 4 */
+
+
+position: absolute;
+width: 190px;
+height: 168px;
+left: 497px;
+top: 391px;
+
+background: #E5E5E5;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Schedule an Appointment */
+
+
+position: absolute;
+width: 136px;
+height: 44px;
+left: 542px;
+top: 449px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* Ellipse 5 */
+
+
+position: absolute;
+width: 190px;
+height: 168px;
+left: 746px;
+top: 391px;
+
+background: #E5E5E5;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Prescription Information */
+
+
+position: absolute;
+width: 136px;
+height: 44px;
+left: 790px;
+top: 449px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+/* Ellipse 6 */
+
+
+position: absolute;
+width: 190px;
+height: 168px;
+left: 989px;
+top: 391px;
+
+background: #E5E5E5;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Reviews */
+
+
+position: absolute;
+width: 136px;
+height: 22px;
+left: 1051px;
+top: 449px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+/* Ellipse 7 */
+
+
+position: absolute;
+width: 190px;
+height: 168px;
+left: 1232px;
+top: 391px;
+
+background: #E5E5E5;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Support/FAQ’s */
+
+
+position: absolute;
+width: 136px;
+height: 22px;
+left: 1271px;
+top: 449px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 535px;
+height: 372px;
+left: 872px;
+top: 622px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* “We swear by VirtuDoc, as a mom with 3 kids healthcare and doctor visits can be stressful, with VirtuDoc I can find the right doctor and get the medical help I need in real-time” -Anne from Michigan “VirtuaDoc helped get me the right heart medication after my heart attack, thank God for this app” -Tony from New Jersery */
+
+
+position: absolute;
+width: 450px;
+height: 319px;
+left: 923px;
+top: 649px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* image 3 */
+
+
+position: absolute;
+width: 509px;
+height: 339px;
+left: 0px;
+top: 685px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 8px;
+
+/* image 2 */
+
+
+position: absolute;
+width: 509px;
+height: 339px;
+left: 931px;
+top: -10px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 8px;
+
+/* Ellipse 2 */
+
+
+position: absolute;
+width: 190px;
+height: 168px;
+left: 13px;
+top: 8px;
+
+background: #E5E5E5;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Profile/Medical Questionare */
+
+
+position: absolute;
+width: 227px;
+height: 44px;
+left: 43px;
+top: 63px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+/* Ellipse 3 */
+
+
+position: absolute;
+width: 190px;
+height: 168px;
+left: 350px;
+top: 8px;
+
+background: url(image.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 381px;
+height: 82px;
+left: 241px;
+top: 205px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Name: Matt Gonzales */
+
+
+position: absolute;
+width: 188px;
+height: 44px;
+left: 337px;
+top: 229px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 381px;
+height: 82px;
+left: 240px;
+top: 346px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Age: 53 */
+
+
+position: absolute;
+width: 188px;
+height: 44px;
+left: 337px;
+top: 374px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 381px;
+height: 82px;
+left: 240px;
+top: 491px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Date of Birth: 08/16/1969 */
+
+
+position: absolute;
+width: 247px;
+height: 44px;
+left: 337px;
+top: 518px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 381px;
+height: 82px;
+left: 240px;
+top: 632px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Gender: Male */
+
+
+position: absolute;
+width: 247px;
+height: 22px;
+left: 337px;
+top: 653px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 381px;
+height: 82px;
+left: 240px;
+top: 773px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Race: Latino */
+
+
+position: absolute;
+width: 247px;
+height: 22px;
+left: 337px;
+top: 796px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #000000;
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 381px;
+height: 82px;
+left: 240px;
+top: 906px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 655px;
+height: 370px;
+left: 738px;
+top: 113px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Medical History (Please include recent urgent care visits, hospital stays, or any other important medical information a physician should know): I visited my urgent care last week for a sprained ankle I got while jogging, when I was 25 I had my appendix out at St. Mary’s back in Boston and I broke my right foot playing soccer in 10th grade when I was 15. That’s about all I can remember. */
+
+
+position: absolute;
+width: 484px;
+height: 198px;
+left: 833px;
+top: 212px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 655px;
+height: 370px;
+left: 738px;
+top: 588px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Medical Symptoms (Please include current or reoccurring symptoms): When I go jogging my chest feels really tight and it gets hard to breathe, I feel fine after I get done jogging though and then I can breathe normally. This is the second time that this has happened while I’m out jogging and I’m a little worried about it. */
+
+
+position: absolute;
+width: 484px;
+height: 176px;
+left: 833px;
+top: 697px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+/* Ellipse 8 */
+
+
+position: absolute;
+width: 190px;
+height: 168px;
+left: 12px;
+top: 8px;
+
+background: #E5E5E5;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Doctor Database */
+
+
+position: absolute;
+width: 227px;
+height: 22px;
+left: 44px;
+top: 74px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+/* Ellipse 12 */
+
+
+position: absolute;
+width: 270px;
+height: 236px;
+left: 270px;
+top: 140px;
+
+background: url(image.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Line 3 */
+
+
+position: absolute;
+width: 67px;
+height: 0px;
+left: 540px;
+top: 258px;
+
+border: 1px solid #000000;
+
+
+/* Rectangle 11 */
+
+
+position: absolute;
+width: 350px;
+height: 209px;
+left: 607px;
+top: 159px;
+
+background: #FFFFFF;
+border: 1px solid #FC0909;
+box-sizing: border-box;
+
+/* -Doctor Gary Jones M.D. -Pulmonologist -Johns Hopkins School of Medicine -Licensed and practicing for 30 years -Email: gary.jones@virtudoc.com */
+
+
+position: absolute;
+width: 237px;
+height: 176px;
+left: 638px;
+top: 175px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+/* Ellipse 10 */
+
+
+position: absolute;
+width: 270px;
+height: 236px;
+left: 271px;
+top: 440px;
+
+background: url(image.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+/* Line 2 */
+
+
+position: absolute;
+width: 67px;
+height: 0px;
+left: 540px;
+top: 558px;
+
+border: 1px solid #000000;
+
+/* Rectangle 12 */
+
+
+position: absolute;
+width: 350px;
+height: 209px;
+left: 607px;
+top: 460px;
+
+background: #FFFFFF;
+border: 1px solid #FC0909;
+box-sizing: border-box;
+
+/* -Doctor Aaron Jackson M.D. -Cardiologist -Baylor College of Medicine -Licensed and practicing for 8 years -Email: aaron.jackson@virtudoc.com */
+
+
+position: absolute;
+width: 276px;
+height: 176px;
+left: 638px;
+top: 475px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+/* Ellipse 11 */
+
+
+position: absolute;
+width: 270px;
+height: 236px;
+left: 271px;
+top: 740px;
+
+background: url(image.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+/* Line 1 */
+
+
+position: absolute;
+width: 67px;
+height: 0px;
+left: 541px;
+top: 858px;
+
+border: 1px solid #000000;
+
+/* Rectangle 13 */
+
+
+position: absolute;
+width: 350px;
+height: 229px;
+left: 607px;
+top: 760px;
+
+background: #FFFFFF;
+border: 1px solid #FC0909;
+box-sizing: border-box;
+
+/* -Doctor Theresa Reynolds M.D. -Allergist -Stanford University School of Medicine -Licensed and practicing for 10 years -Email: theresa.reynolds@virtudoc.com */
+
+
+position: absolute;
+width: 276px;
+height: 198px;
+left: 638px;
+top: 775px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+/* Rectangle 14 */
+
+
+position: absolute;
+width: 302px;
+height: 351px;
+left: 1055px;
+top: 389px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Here are some great doctors that fit the symptoms you provided in your profile. Please select a doctor profile and send them a message to receive a free virtual visit/consultation and to schedule an in person appointment. */
+
+
+position: absolute;
+width: 263px;
+height: 176px;
+left: 1084px;
+top: 466px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Ellipse 8 */
+
+
+position: absolute;
+width: 190px;
+height: 168px;
+left: 12px;
+top: 8px;
+
+background: #E5E5E5;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Schedule an Appointment */
+
+
+position: absolute;
+width: 136px;
+height: 86px;
+left: 53px;
+top: 63px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+/* Ellipse 12 */
+
+
+position: absolute;
+width: 177px;
+height: 154px;
+left: 189px;
+top: 139px;
+
+background: url(image.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+
+/* Line 4 */
+
+
+position: absolute;
+width: 72px;
+height: 0px;
+left: 366px;
+top: 216px;
+
+border: 1px solid #000000;
+
+
+/* Rectangle 15 */
+
+
+position: absolute;
+width: 332px;
+height: 154px;
+left: 438px;
+top: 139px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Hi Matt, I’m Doctor Gary Jones. It’s great to meet you, I see you selected my profile and want to schedule an in person visit? */
+
+
+position: absolute;
+width: 275px;
+height: 110px;
+left: 481px;
+top: 166px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+/* Rectangle 16 */
+
+
+position: absolute;
+width: 332px;
+height: 154px;
+left: 315px;
+top: 327px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Hey Doctor Jones, yeah I’m having some trouble breathing when I go jogging, when would be a good day and time for me to come in for a visit? */
+
+
+position: absolute;
+width: 272px;
+height: 110px;
+left: 345px;
+top: 350px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+/* Line 5 */
+
+
+position: absolute;
+width: 72px;
+height: 0px;
+left: 647px;
+top: 404px;
+
+border: 1px solid #000000;
+
+
+/* Ellipse 4 */
+
+
+position: absolute;
+width: 190px;
+height: 168px;
+left: 719px;
+top: 320px;
+
+background: url(image.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+/* Ellipse 13 */
+
+
+position: absolute;
+width: 177px;
+height: 154px;
+left: 189px;
+top: 561px;
+
+background: url(image.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+/* Line 6 */
+
+
+position: absolute;
+width: 72px;
+height: 0px;
+left: 366px;
+top: 638px;
+
+border: 1px solid #000000;
+
+/* Rectangle 17 */
+
+
+position: absolute;
+width: 343px;
+height: 247px;
+left: 438px;
+top: 522px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* I see Matt, that’s definitely something we need to take a look at. My availability this week is Mon. 1/10 from 8am-12pm, 1pm-5pm, Tue. 1/11 from 8am-12pm, 1pm-5pm, and Wed. 1/12 from 8am-12pm, 1pm-3pm. Which one of those dates and times works for you? */
+
+
+position: absolute;
+width: 266px;
+height: 220px;
+left: 473px;
+top: 534px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 332px;
+height: 154px;
+left: 315px;
+top: 809px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Mon. 1/10 at 8am would work best for me Doctor Jones. Thanks for being able to get me in and see me. */
+
+
+position: absolute;
+width: 260px;
+height: 88px;
+left: 359px;
+top: 839px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #FC0909;
+
+/* Line 7 */
+
+
+position: absolute;
+width: 72px;
+height: 0px;
+left: 647px;
+top: 886px;
+
+border: 1px solid #000000;
+
+/* Ellipse 14 */
+
+
+position: absolute;
+width: 190px;
+height: 168px;
+left: 719px;
+top: 802px;
+
+background: url(image.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+/* Ellipse 15 */
+
+
+position: absolute;
+width: 177px;
+height: 154px;
+left: 858px;
+top: 128px;
+
+background: url(image.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+/* Line 8 */
+
+
+position: absolute;
+width: 64px;
+height: 0px;
+left: 1035px;
+top: 205px;
+
+border: 1px solid #000000;
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 332px;
+height: 121px;
+left: 1099px;
+top: 145px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* I’ll see you Mon. 1/10 at 8am Matt, have a great rest of your day. */
+
+
+position: absolute;
+width: 291px;
+height: 66px;
+left: 1126px;
+top: 167px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+/* Rectangle 20 */
+
+
+position: absolute;
+width: 332px;
+height: 121px;
+left: 838px;
+top: 529px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* See you then Doctor Jones thanks again! */
+
+
+position: absolute;
+width: 281px;
+height: 44px;
+left: 889px;
+top: 567px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+/* Line 9 */
+
+
+position: absolute;
+width: 64px;
+height: 0px;
+left: 1170px;
+top: 589px;
+
+border: 1px solid #000000;
+
+/* Ellipse 16 */
+
+
+position: absolute;
+width: 190px;
+height: 168px;
+left: 1234px;
+top: 505px;
+
+background: url(image.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+/* Rectangle 21 */
+
+
+position: absolute;
+width: 287px;
+height: 262px;
+left: 1071px;
+top: 740px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* You’ve scheduled an appointment with Doctor Gary Jones for Mon. 1/10/2022 at 8am. If this is correct please ignore this message. If this is incorrect or you would like to make any changes please contact Doctor Gary Jones and Reschedule. */
+
+
+position: absolute;
+width: 239px;
+height: 220px;
+left: 1102px;
+top: 763px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+/* Ellipse 8 */
+
+
+position: absolute;
+width: 190px;
+height: 168px;
+left: 12px;
+top: 8px;
+
+background: #E5E5E5;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Prescription Information */
+
+
+position: absolute;
+width: 136px;
+height: 44px;
+left: 53px;
+top: 63px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* Rectangle 23 */
+
+
+position: absolute;
+width: 443px;
+height: 65px;
+left: 352px;
+top: 84px;
+
+background: #FFFFFF;
+border: 1px solid #FC0909;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 13px;
+
+/* amoxicillin */
+
+
+position: absolute;
+width: 177px;
+height: 22px;
+left: 372px;
+top: 106px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+/* image 9 */
+
+
+position: absolute;
+width: 37px;
+height: 37px;
+left: 683px;
+top: 96px;
+
+background: url(image.png);
+
+/* Line 10 */
+
+
+position: absolute;
+width: 50px;
+height: 0px;
+left: 733px;
+top: 89px;
+
+border: 1px solid #C4C4C4;
+transform: rotate(90deg);
+
+/* image 7 */
+
+
+position: absolute;
+width: 37px;
+height: 34.22px;
+left: 746px;
+top: 100px;
+
+background: url(image.png);
+
+/* Ellipse 20 */
+
+
+position: absolute;
+width: 189px;
+height: 159px;
+left: 121px;
+top: 265px;
+
+background: url(image.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+/* Line 11 */
+
+
+position: absolute;
+width: 67px;
+height: 0px;
+left: 310px;
+top: 343px;
+
+border: 1px solid #000000;
+transform: rotate(0.67deg);
+
+/* Rectangle 15 */
+
+
+position: absolute;
+width: 350px;
+height: 238px;
+left: 377px;
+top: 228px;
+
+background: #FFFFFF;
+border: 1px solid #FC0909;
+box-sizing: border-box;
+
+/* Amoxicillin is used to treat certain infections caused by bacteria, such as pneumonia; bronchitis (infection of the airway tubes leading to the lungs); and infections of the ears, nose, throat, urinary tract, and skin. It is also used in combination with other medications to eliminate H. pylori, a bacteria that causes ulcers. Amoxicillin is in a class of medications called penicillin-like antibiotics. It works by stopping the growth of bacteria. */
+
+
+position: absolute;
+width: 268px;
+height: 204px;
+left: 419px;
+top: 245px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #000000;
+
+/* Line 12 */
+
+
+position: absolute;
+width: 129.97px;
+height: 0px;
+left: 542px;
+top: 466px;
+
+border: 1px solid #000000;
+transform: rotate(90.44deg);
+
+/* Line 13 */
+
+
+position: absolute;
+width: 214px;
+height: 0px;
+left: 542px;
+top: 596px;
+
+border: 1px solid #000000;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 350px;
+height: 385px;
+left: 756px;
+top: 411px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+/* Amoxicillin may cause side effects. Tell your doctor if any of these symptoms are severe or do not go away: -nausea -vomiting -diarrhea -changes in taste -headache -rash -skin blisters or peeling -itching -hives -wheezing -difficulty swallowing or breathing -swelling of the face, throat, tongue, lips, and eyes -severe diarrhea (watery or bloody stools) that may occur with or without fever and stomach cramps (may occur up to 2 months or more after your treatment) */
+
+
+position: absolute;
+width: 275px;
+height: 357px;
+left: 793px;
+top: 424px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #000000;
+
+
+
+/* image 5 */
+
+
+position: absolute;
+width: 487.05px;
+height: 340px;
+left: 0px;
+top: 684px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 8px;
+
+/* image 4 */
+
+
+position: absolute;
+width: 509px;
+height: 304.28px;
+left: 935px;
+top: 0px;
+
+background: url(image.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 8px;
+
+/* Ellipse 8 */
+
+
+position: absolute;
+width: 190px;
+height: 168px;
+left: 12px;
+top: 8px;
+
+background: #E5E5E5;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Reviews */
+
+
+position: absolute;
+width: 136px;
+height: 22px;
+left: 66px;
+top: 67px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 535px;
+height: 354px;
+left: 465px;
+top: 20px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Here at VirtuaDoc we take patient care and the doctor/patient experience seriously, we strive for excellent outcomes for any medical issue you may be facing and always do our best to provide the best diagnoses and service possible. Below are some amazing reviews users have left us, if you’d like to leave a review please feel free to do so below. */
+
+
+position: absolute;
+width: 499px;
+height: 248px;
+left: 483px;
+top: 61px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Tell us about your experience today while using VirtuaDoc? */
+
+
+position: absolute;
+width: 389px;
+height: 97px;
+left: 564px;
+top: 388px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 430px;
+height: 377px;
+left: 505px;
+top: 454px;
+
+background: #E5E5E5;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Name */
+
+
+position: absolute;
+width: 216px;
+height: 28px;
+left: 446px;
+top: 845px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+/* Rectangle 29 */
+
+
+position: absolute;
+width: 245px;
+height: 53px;
+left: 446px;
+top: 874px;
+
+background: #E5E5E5;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Enter your name */
+
+
+position: absolute;
+width: 195px;
+height: 18px;
+left: 456px;
+top: 894px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+
+color: #C4C4C4;
+
+
+/* Email */
+
+
+position: absolute;
+width: 199px;
+height: 23px;
+left: 757px;
+top: 845px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+/* Rectangle 30 */
+
+
+position: absolute;
+width: 245px;
+height: 53px;
+left: 757px;
+top: 874px;
+
+background: #E5E5E5;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* method.man@example.com */
+
+
+position: absolute;
+width: 195px;
+height: 18px;
+left: 768px;
+top: 894px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+
+color: #C4C4C4;
+
+
+/* Rating */
+
+
+position: absolute;
+width: 236px;
+height: 32px;
+left: 446px;
+top: 960px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+/* Star 1 */
+
+
+position: absolute;
+width: 47px;
+height: 41px;
+left: 522px;
+top: 956px;
+
+background: #FFFFFF;
+border: 1px solid #FC0909;
+box-sizing: border-box;
+/* Star 2 */
+
+
+position: absolute;
+width: 47px;
+height: 41px;
+left: 569px;
+top: 956px;
+
+background: #FFFFFF;
+border: 1px solid #FC0909;
+box-sizing: border-box;
+
+/* Star 3 */
+
+
+position: absolute;
+width: 47px;
+height: 41px;
+left: 615px;
+top: 956px;
+
+background: #FFFFFF;
+border: 1px solid #FC0909;
+box-sizing: border-box;
+
+/* Star 4 */
+
+
+position: absolute;
+width: 47px;
+height: 41px;
+left: 662px;
+top: 956px;
+
+background: #FFFFFF;
+border: 1px solid #FC0909;
+box-sizing: border-box;
+
+/* Star 5 */
+
+
+position: absolute;
+width: 47px;
+height: 41px;
+left: 709px;
+top: 956px;
+
+background: #FFFFFF;
+border: 1px solid #FC0909;
+box-sizing: border-box;
+
+/* Rectangle 26 */
+
+
+position: absolute;
+width: 365px;
+height: 329px;
+left: 19px;
+top: 683px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* “VirtuaDoc helped get me the right medication for my Crohn's disease, I feel so much better now living with Crohns and my symptoms are under control thanks VirtuaDoc” -Mike from Washington */
+
+
+position: absolute;
+width: 321px;
+height: 232px;
+left: 48px;
+top: 732px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Rectangle 27 */
+
+
+position: absolute;
+width: 365px;
+height: 329px;
+left: 1051px;
+top: 684px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* “VirtuaDoc helped me find the right Orthopedic doctor when I broke my arm, I was able to get specialized visits and monthly check-ups on the healing process and my arm made a full recovery” -Liz from Colorado */
+
+
+position: absolute;
+width: 290px;
+height: 290px;
+left: 1089px;
+top: 708px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Ellipse 8 */
+
+
+position: absolute;
+width: 190px;
+height: 168px;
+left: 12px;
+top: 8px;
+
+background: #E5E5E5;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Support/FAQ’s */
+
+
+position: absolute;
+width: 136px;
+height: 44px;
+left: 53px;
+top: 70px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 535px;
+height: 354px;
+left: 465px;
+top: 20px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Below are some frequently asked questions about VirtuaDoc and an attached link to our support team. Feel free to leave a question below and one of our support agents will answer it as soon as they’re available. Thank you for using VirtuaDoc, we value your feedback and are always looking to improve our medical platform. */
+
+
+position: absolute;
+width: 499px;
+height: 248px;
+left: 483px;
+top: 73px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Got a question for the Support Team? */
+
+
+position: absolute;
+width: 462px;
+height: 45px;
+left: 517px;
+top: 388px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+
+/* Rectangle 33 */
+
+
+position: absolute;
+width: 453px;
+height: 317px;
+left: 493px;
+top: 423px;
+
+background: #E5E5E5;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+/* Support Team Link: */
+
+
+position: absolute;
+width: 321px;
+height: 37px;
+left: 501px;
+top: 782px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+/* Rectangle 34 */
+
+
+position: absolute;
+width: 437px;
+height: 73px;
+left: 501px;
+top: 824px;
+
+background: #E5E5E5;
+border: 1px solid #000000;
+box-sizing: border-box;
+
+
+/* https://support.virtuadoc.com */
+
+
+position: absolute;
+width: 374px;
+height: 33px;
+left: 529px;
+top: 848px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #326EC9;
+
+
+/* Rectangle 31 */
+
+
+position: absolute;
+width: 466px;
+height: 308px;
+left: 9px;
+top: 705px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Question: Where can I schedule a medical appointment on VirtuaDoc? Answer: You can schedule an in person medical appointment on VirtuaDoc by messaging a doctor on the doctor profile page */
+
+
+position: absolute;
+width: 329px;
+height: 260px;
+left: 53px;
+top: 729px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #FC0909;
+
+
+/* Rectangle 32 */
+
+
+position: absolute;
+width: 466px;
+height: 308px;
+left: 964px;
+top: 705px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Question: How can I search for different medications on VirtuaDoc? Answer: You can search for different medications on VirtuaDoc by typing the name of the medication in the search bar on the prescription information page */
+
+
+position: absolute;
+width: 401px;
+height: 259px;
+left: 1008px;
+top: 730px;
+
+font-family: Nova Square;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 29px;
+
+color: #FC0909;

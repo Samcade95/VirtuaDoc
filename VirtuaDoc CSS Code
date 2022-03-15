@@ -1467,7 +1467,6 @@ color: #000000;
 
 /* image 5 */
 
-
 position: absolute;
 width: 487.05px;
 height: 340px;
@@ -1480,7 +1479,6 @@ border-radius: 8px;
 
 /* image 4 */
 
-
 position: absolute;
 width: 509px;
 height: 304.28px;
@@ -1490,6 +1488,159 @@ top: 0px;
 background: url(image.png);
 filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 border-radius: 8px;
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 190px;
+height: 168px;
+left: 13px;
+top: 8px;
+
+background: #E5E5E5;
+border: 1px solid #000000;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Appointment Summary */
+
+position: absolute;
+width: 152px;
+height: 44px;
+left: 61px;
+top: 63px;
+
+font-family: 'Nova Square';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+
+/* Ellipse 3 */
+
+position: absolute;
+width: 190px;
+height: 168px;
+left: 589px;
+top: 95px;
+
+background: url(image.png);
+border: 1px solid #000000;
+box-sizing: border-box;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+/* Line 14 */
+
+position: absolute;
+width: 73px;
+height: 0px;
+left: 684px;
+top: 263px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 653px;
+height: 307px;
+left: 357px;
+top: 336px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Please provide a brief summary of your virtual visit today with Doctor Gary Jones below: Doctor Jones did an amazing job today during my virtual visit with him. He was thorough with his diagnosis and scheduled me for an in person check-up with him at his office. I would definitely recommend him to anyone experiencing similar symptoms like I was and am going to book him again for any future medical issues I may have down the road. -Matt Gonzales */
+
+
+position: absolute;
+width: 539px;
+height: 242px;
+left: 407px;
+top: 362px;
+
+font-family: 'Nova Square';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+
+/* Rectangle 36 */
+
+
+position: absolute;
+width: 466px;
+height: 162px;
+left: 451px;
+top: 803px;
+
+background: #FC0909;
+border: 1px solid #FC0909;
+box-sizing: border-box;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 75px;
+
+/* Rectangle 37 */
+
+
+position: absolute;
+width: 361px;
+height: 100px;
+left: 496px;
+top: 834px;
+
+background: #FC0909;
+
+/* Book Again */
+
+
+position: absolute;
+width: 287px;
+height: 53px;
+left: 589px;
+top: 858px;
+
+font-family: 'Nova Square';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 43px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 281px;
+height: 262px;
+left: 1113px;
+top: 719px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+box-sizing: border-box;
+border-radius: 13px;
+
+/* Hi Matt, we hope you enjoyed your virtual visit today with Doctor Gary Jones. Here you can give a brief Appointment Summary of your visit today and even book another appointment with the same doctor. */
+
+
+position: absolute;
+width: 194px;
+height: 220px;
+left: 1157px;
+top: 741px;
+
+font-family: 'Nova Square';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
 
 /* Ellipse 8 */
 
@@ -1504,7 +1655,6 @@ background: #E5E5E5;
 border: 1px solid #000000;
 box-sizing: border-box;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-
 
 /* Reviews */
 
@@ -1978,6 +2128,61 @@ line-height: 29px;
 
 color: #326EC9;
 
+/* Rectangle 35 */
+
+
+position: absolute;
+width: 246px;
+height: 122px;
+left: 1085px;
+top: 459px;
+
+background: #307AE9;
+border: 1px solid #307AE9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 13px;
+
+/* Ellipse 21 */
+
+
+position: absolute;
+width: 113px;
+height: 122px;
+left: 1218px;
+top: 459px;
+
+background: #3988FF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* image 11 */
+
+
+position: absolute;
+width: 73px;
+height: 62px;
+left: 1238px;
+top: 489px;
+
+background: url(image.png);
+
+/* Live Chat */
+
+
+position: absolute;
+width: 124px;
+height: 46px;
+left: 1104px;
+top: 505px;
+
+font-family: 'Nova Square';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
 /* Rectangle 31 */
 
@@ -2009,7 +2214,6 @@ font-size: 24px;
 line-height: 29px;
 
 color: #FC0909;
-
 
 /* Rectangle 32 */
 

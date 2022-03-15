@@ -1978,6 +1978,62 @@ line-height: 29px;
 
 color: #326EC9;
 
+/* Rectangle 35 */
+
+
+position: absolute;
+width: 246px;
+height: 122px;
+left: 1085px;
+top: 459px;
+
+background: #307AE9;
+border: 1px solid #307AE9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 13px;
+
+/* Ellipse 21 */
+
+
+position: absolute;
+width: 113px;
+height: 122px;
+left: 1218px;
+top: 459px;
+
+background: #3988FF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* image 11 */
+
+
+position: absolute;
+width: 73px;
+height: 62px;
+left: 1238px;
+top: 489px;
+
+background: url(image.png);
+
+/* Live Chat */
+
+
+position: absolute;
+width: 124px;
+height: 46px;
+left: 1104px;
+top: 505px;
+
+font-family: 'Nova Square';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
 
 /* Rectangle 31 */
 
